@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Jobs",
+    "description": "An app for finding jobs in the UK and Lisbon",
+    "slug": "jobs",
+    "privacy": "unlisted",
+    "sdkVersion": "20.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#333",
+    "icon": "./assets/icons/favicon.png",
+    "loading": {
+      "icon": "./assets/icons/favicon.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
